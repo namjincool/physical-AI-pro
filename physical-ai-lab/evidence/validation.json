@@ -1,0 +1,11 @@
+{
+  "date_asia_seoul": "2026-10-29",
+  "pytest_first_run": "13 passed in 9.11s",
+  "pytest_repeat_under_stdlib_trace": "13 passed in 4.61s",
+  "coverage_note": "stdlib trace reported only the test module; no application coverage claimed",
+  "pip_check": "No broken requirements found.",
+  "viewer_exit_code": 0,
+  "viewer_completed_steps": 1500,
+  "main_sha256": "694f4b152c6629626b7d0e01364c6889a6c131549e1af42cb13dd94e2f927f29",
+  "model_sha256": "472e20f9f886ed5e55e58116ff1be56808c61a05c563fa64a6af02b3f1158c5d"
+}

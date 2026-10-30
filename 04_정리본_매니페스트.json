@@ -1,0 +1,244 @@
+{
+  "work_date": "2026-10-29",
+  "publication_date": "2026-10-30",
+  "timezone": "Asia/Seoul",
+  "source_code_model_and_results_unchanged": true,
+  "scope": "Public GitHub publication; private identifiers and PC paths excluded.",
+  "excludes_own_hash_and_inventory": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 69,
+      "sha256": "a6b50906b52373b4bae641e249733a5a834f9d2b755eda48386cbce318c807fa",
+      "git_blob_sha": "f56d4ecea907a4811d35463661000ce242c841d7"
+    },
+    {
+      "path": "00_먼저읽기.md",
+      "bytes": 2465,
+      "sha256": "0d5ee7af5ec736cb3ae8abd5df10f3b57c9f8ce94f7a45d381d22fa40cc74643",
+      "git_blob_sha": "a36e14c0e27c07ac233e781ba000722ae1800742"
+    },
+    {
+      "path": "01_금일수행결과.md",
+      "bytes": 3830,
+      "sha256": "886ae43b08c677fd802ac30259bd4654ad5ef2a2e643613b68ca35c8a6b11618",
+      "git_blob_sha": "2759a2f6ffa0f80ef6fa3464f2cdacc7aad9e283"
+    },
+    {
+      "path": "02_소스코드_쉬운해설.md",
+      "bytes": 5311,
+      "sha256": "f15efeb1be1e3f4e10d13cc099a719d40353be8b33f35c79c3db1667fb0ca8a1",
+      "git_blob_sha": "22aedbfcc34b47bf669dba998c2d33f152c5b54b"
+    },
+    {
+      "path": "05_복사검증.json",
+      "bytes": 357,
+      "sha256": "778c078654f94be141ef85a010f2b92beab33ce76a24f4c74ebc667e8a2af554",
+      "git_blob_sha": "3446adc4d7d8192788a08371a354294cee9c7d2d"
+    },
+    {
+      "path": "docs/2026-10-29-worklog.md",
+      "bytes": 3334,
+      "sha256": "412179adf21eac2a22c1bc5bdc20b16b055f7adc8edf37111f232b46678ceb8a",
+      "git_blob_sha": "1988a9048051410f53129c4ca33b41364cb2d9ae"
+    },
+    {
+      "path": "physical-ai-lab/evidence/pack_evidence.json",
+      "bytes": 1121,
+      "sha256": "d4ef093ea95effdc6df46ac26237f604fde0598d9bae4adcb4e8b60104c4af2e",
+      "git_blob_sha": "93a6700f72dca2d5588044f5716514b770e0d7cc"
+    },
+    {
+      "path": "physical-ai-lab/evidence/validation.json",
+      "bytes": 527,
+      "sha256": "04897c3e5344188ac7b324d9a9dd0047d5b97ab824ee6b4914a78a8379d74e26",
+      "git_blob_sha": "4a66f7e45ce7dfe18a34515c6990e6297374b2a6"
+    },
+    {
+      "path": "physical-ai-lab/main.py",
+      "bytes": 9091,
+      "sha256": "694f4b152c6629626b7d0e01364c6889a6c131549e1af42cb13dd94e2f927f29",
+      "git_blob_sha": "4f6d4897c7b83170740e0d94649b872ebea55577"
+    },
+    {
+      "path": "physical-ai-lab/models/single_joint.xml",
+      "bytes": 765,
+      "sha256": "472e20f9f886ed5e55e58116ff1be56808c61a05c563fa64a6af02b3f1158c5d",
+      "git_blob_sha": "30653061b449c37c1b3ca38056c8725a6ed83964"
+    },
+    {
+      "path": "physical-ai-lab/README.md",
+      "bytes": 10664,
+      "sha256": "b124cecd85ba71f658f7ea56948c589e1b9f8b33fe814fdd778ba8989b58b95b",
+      "git_blob_sha": "94617a3039a39750a192324191bc9129f5522300"
+    },
+    {
+      "path": "physical-ai-lab/requirements-lock.txt",
+      "bytes": 448,
+      "sha256": "f01486e5b925e1e53d048661cecace54eb2ecd64f034b26d787e9e39464f4b77",
+      "git_blob_sha": "4d50e21bd95d319d315c0ad353484915e6d6c5e9"
+    },
+    {
+      "path": "physical-ai-lab/requirements.txt",
+      "bytes": 65,
+      "sha256": "7ce9e38775d394311a96b3811973d69d2632a19ae19b299cfdfc58b6abfe8544",
+      "git_blob_sha": "d3195ca4ca6d03e2965f2f569ff9bae24e3203e1"
+    },
+    {
+      "path": "physical-ai-lab/results/A_target45/joint_angle.png",
+      "bytes": 80382,
+      "sha256": "aab6a86ebf33220e8097ed379de055499a6684d60ff7b3458a9a34b72cb5d500",
+      "git_blob_sha": "dcdeb426d96683fd2cb5498f393edf3bfc71ea33"
+    },
+    {
+      "path": "physical-ai-lab/results/A_target45/joint_log.csv",
+      "bytes": 303430,
+      "sha256": "4d8c0003ede882b97fca489fe8d335cb32651a21f10056b130e1074c4bac6038",
+      "git_blob_sha": "b79374c53f70ef610b932f54354bc0b4ba748bc4"
+    },
+    {
+      "path": "physical-ai-lab/results/A_target45/metrics.json",
+      "bytes": 1392,
+      "sha256": "754ddf4f2b665ea91006859d52a5770f7fbecb9d4210f968672717ad8187b7ee",
+      "git_blob_sha": "b5860de25a23272137a56e02a79c9cb41be8b316"
+    },
+    {
+      "path": "physical-ai-lab/results/arm_3d.png",
+      "bytes": 19506,
+      "sha256": "f48cde9fc152bafad6bd9829a3cc0cc8ea8a9e3d9180ff021ff076c89faa625d",
+      "git_blob_sha": "e07cf49224af4e6822866755e55b7029624f6655"
+    },
+    {
+      "path": "physical-ai-lab/results/B_target90/joint_angle.png",
+      "bytes": 82364,
+      "sha256": "0511a5b1df063e8b7db712aa5697fd9968d7309c0e7e1677fe75b6e0bb1f18f1",
+      "git_blob_sha": "1fbf541e47ecc7fdf7279e7c3148779875955746"
+    },
+    {
+      "path": "physical-ai-lab/results/B_target90/joint_log.csv",
+      "bytes": 299824,
+      "sha256": "3cc6229b7b89cbe721d570c72873023c920ebe63011c8a1d7c9012684ec4b1f6",
+      "git_blob_sha": "14fa7d0510dd4088bdbf3fdb7e5069753ced039f"
+    },
+    {
+      "path": "physical-ai-lab/results/B_target90/metrics.json",
+      "bytes": 1391,
+      "sha256": "ba22773e17b62b47ed0afb730376026f2a1e55cd67cb52c6779af6e97bec46dc",
+      "git_blob_sha": "9f6cb5877a1993b4ac6d3e0c189831ae220ba3a8"
+    },
+    {
+      "path": "physical-ai-lab/results/C_kp5/joint_angle.png",
+      "bytes": 86729,
+      "sha256": "d92210212319f1f9bffaadd9292f96e7ce551f9b991a0911e1bf9a5ae1664ce7",
+      "git_blob_sha": "8af55fafabf1244f3bbef6a20da0675f4d9c0a7a"
+    },
+    {
+      "path": "physical-ai-lab/results/C_kp5/joint_log.csv",
+      "bytes": 291123,
+      "sha256": "f66bdc3ec7dfd255c93601ade1e071da2d16caaba37b2ce60bc7fb3a80e22bc0",
+      "git_blob_sha": "ea6cdc3ee0f2d3a62e99f633348cb7384b21c165"
+    },
+    {
+      "path": "physical-ai-lab/results/C_kp5/metrics.json",
+      "bytes": 1365,
+      "sha256": "3c3cfa5b6f9fa1601835f09c9019462ce57e07d9ee81b68abb2212dbaebc0c5b",
+      "git_blob_sha": "97785159bf83990ddb8d6868ad67c7ecd4e59846"
+    },
+    {
+      "path": "physical-ai-lab/results/comparison.png",
+      "bytes": 112250,
+      "sha256": "c6ca14ff8008bc9cf39acfbe1fadeac3710cdf0de4c5271919d664996110dac5",
+      "git_blob_sha": "76501a0d780f9ded07922442afd91471d3dd94b2"
+    },
+    {
+      "path": "physical-ai-lab/results/D_kd1/joint_angle.png",
+      "bytes": 75978,
+      "sha256": "c2072f46382e0bdec65b3d70f11b7383d4be8ac22d63ea1f352f254e30d6fae6",
+      "git_blob_sha": "23fbfa010f921f27f6e7f065cd906e694ad106ca"
+    },
+    {
+      "path": "physical-ai-lab/results/D_kd1/joint_log.csv",
+      "bytes": 313768,
+      "sha256": "4f7c710c711639c09ab85444d84e84533f3c4ce1cd5d9e3ee42b0f017b87dd3e",
+      "git_blob_sha": "05e40903a56c4471b8c97a924cee839a62c2f7d9"
+    },
+    {
+      "path": "physical-ai-lab/results/D_kd1/metrics.json",
+      "bytes": 1410,
+      "sha256": "fddea082dceb8004e8464ebf2a3e95138a90244f338e163cc6dece0235bdca76",
+      "git_blob_sha": "77fdc60c46da3788f0dfee10d865c5faa21763e4"
+    },
+    {
+      "path": "physical-ai-lab/results/E_no_control/joint_angle.png",
+      "bytes": 56451,
+      "sha256": "76a1d2a3288529820eec8217db8bec0595cab9e243b2ff48b5b3c93210ef2681",
+      "git_blob_sha": "03b8ebb60db0eaefcf6e3e268704ff65544bcd20"
+    },
+    {
+      "path": "physical-ai-lab/results/E_no_control/joint_log.csv",
+      "bytes": 113483,
+      "sha256": "009681bb15f1fef640ce93ff06491d455acd3ccb96df80fcc4763f1800e29ecc",
+      "git_blob_sha": "1533f2323ec523e81f91282f78f5740c09c88a9b"
+    },
+    {
+      "path": "physical-ai-lab/results/E_no_control/metrics.json",
+      "bytes": 1281,
+      "sha256": "8db3ef66e966230a70edfdb7511d8af7f3f246cbc6df404855d039c08dc443cf",
+      "git_blob_sha": "c9e2cb2ea1468a6081a3778290b58ca5808676e1"
+    },
+    {
+      "path": "physical-ai-lab/results/summary.csv",
+      "bytes": 695,
+      "sha256": "93a340e83d76b6b600d2df7d5162a0db80f52dc97941b3fa234db1ae0c54f255",
+      "git_blob_sha": "8d9459433af607d57ed53b9b276cc4d1332d1c9f"
+    },
+    {
+      "path": "physical-ai-lab/results/viewer45/joint_angle.png",
+      "bytes": 80382,
+      "sha256": "aab6a86ebf33220e8097ed379de055499a6684d60ff7b3458a9a34b72cb5d500",
+      "git_blob_sha": "dcdeb426d96683fd2cb5498f393edf3bfc71ea33"
+    },
+    {
+      "path": "physical-ai-lab/results/viewer45/joint_log.csv",
+      "bytes": 306430,
+      "sha256": "f068c50406f9384084ac58a95a29979f3584e02ef31392d7c1036d7cada5d217",
+      "git_blob_sha": "9bbb0205a7f756ed6bf37842e7fcae60cff53612"
+    },
+    {
+      "path": "physical-ai-lab/results/viewer45/metrics.json",
+      "bytes": 1397,
+      "sha256": "3784cfc9a54d9afced5a00507ef4d80efb95b8f1da2c7f37de97a669d24476a8",
+      "git_blob_sha": "441a964901fbd259455be1e13d3df5d7fc0ec926"
+    },
+    {
+      "path": "physical-ai-lab/RESULTS.md",
+      "bytes": 4733,
+      "sha256": "1c16c990e97a501709ca28fb2c66de3bbae0f8bb216e300a6acb65007074d976",
+      "git_blob_sha": "5de8663187c5c10859c1e2729bd4145bfa1f3d93"
+    },
+    {
+      "path": "physical-ai-lab/run_experiments.py",
+      "bytes": 2369,
+      "sha256": "1cb9b11ae20997a3e5dffa7eacce13b50ba53296e7bc4fe6611cdbb7dbae26df",
+      "git_blob_sha": "f97126b21880b6d55396ab2f16609fb9c405a806"
+    },
+    {
+      "path": "physical-ai-lab/tests/test_control.py",
+      "bytes": 3105,
+      "sha256": "7d7794fb2431e061984705cea30a42cbf324324d27bc60a25ed86584b6c72f3e",
+      "git_blob_sha": "2e01ea8dbfcc11b0da440b5ce25190b02c42cb53"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2913,
+      "sha256": "5130cad0fc8391542c8181c57fcf428c8a14e833de3eca86d1e7597f8c8a244d",
+      "git_blob_sha": "c0639d88a4de2a32ab7f3c3414fa7987e09c227d"
+    },
+    {
+      "path": "소스코드와실험결과.zip",
+      "bytes": 953049,
+      "sha256": "82bb407d594ecff598f15d165e34cf72e65f46de6ce966c719ab2f6e75b29d75",
+      "git_blob_sha": "1c358fb02494f34cc5c66c4dc0eefcdae59a7af9"
+    }
+  ]
+}

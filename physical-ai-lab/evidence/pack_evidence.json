@@ -1,0 +1,26 @@
+{
+  "title": "Physical AI — 근거 기반 개념·모델·데이터·도구",
+  "version": "1.0.0",
+  "retrieved_on": "2026-10-29",
+  "publication_note": "Public summary of the principles applied; private pack identifiers and raw excerpts are omitted.",
+  "applied_principles": [
+    {
+      "source": "01_Physical_AI_개념과기술구조.md",
+      "principle": "초기 상태 변경과 제어 입력을 구분한다."
+    },
+    {
+      "source": "01_Physical_AI_개념과기술구조.md",
+      "principle": "환경·단위·초기조건·평가·실패를 기록한다."
+    },
+    {
+      "source": "03_공식도구와실습경로.md",
+      "principle": "변수 하나를 바꾸고 예상과 실제 관찰을 비교한다."
+    }
+  ],
+  "scope": "The pack supplied study and evidence principles, not the implemented code or measured results.",
+  "official_sources": [
+    "https://mujoco.readthedocs.io/en/stable/python.html",
+    "https://mujoco.readthedocs.io/en/stable/XMLreference.html",
+    "https://mujoco.readthedocs.io/en/stable/programming/simulation.html#simulation-loop"
+  ]
+}

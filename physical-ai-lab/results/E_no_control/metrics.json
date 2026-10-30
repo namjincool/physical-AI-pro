@@ -1,0 +1,47 @@
+{
+  "target_deg": 45,
+  "kp_nm_per_rad": 0,
+  "kd_nm_s_per_rad": 0,
+  "requested_duration_s": 3.0,
+  "simulation_duration_s": 2.999999999999891,
+  "timestep_s": 0.002,
+  "steps": 1500,
+  "completed": true,
+  "viewer_requested": false,
+  "stop_reason": "duration_completed",
+  "initial_qpos_rad": [
+    0.0
+  ],
+  "initial_qvel_rad_s": [
+    0.0
+  ],
+  "gravity_m_s2": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "joint_damping_nm_s_per_rad": 1.0,
+  "torque_limits_nm": [
+    -10.0,
+    10.0
+  ],
+  "final_angle_deg": 0.0,
+  "final_error_deg": 45.0,
+  "final_velocity_rad_s": 0.0,
+  "max_tail_0_5s_error_deg": 45.0,
+  "rmse_deg": 45.0,
+  "overshoot_deg": 0.0,
+  "settling_time_1deg_s_within_horizon": null,
+  "saturation_fraction": 0.0,
+  "criterion": "complete AND max error in final 0.5s <= 1 deg (teaching criterion)",
+  "passed": false,
+  "python": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "mujoco": "3.17.0",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2"
+  },
+  "model_sha256": "472e20f9f886ed5e55e58116ff1be56808c61a05c563fa64a6af02b3f1158c5d",
+  "code_sha256": "694f4b152c6629626b7d0e01364c6889a6c131549e1af42cb13dd94e2f927f29"
+}

@@ -1,0 +1,10 @@
+{
+  "date_asia_seoul": "2026-10-29",
+  "verified_payload_files": 37,
+  "all_hashes_match": true,
+  "zip_crc_check": "passed",
+  "existing_files_modified": false,
+  "experiments_rerun_during_handoff": false,
+  "total_files_including_receipt": 38,
+  "note": "Summary of the 2026-10-29 local transfer; not the file count of this GitHub publication."
+}
